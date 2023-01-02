@@ -238,7 +238,9 @@ textarea {
     gap: 5px;
 }
 
+
 .home_guides_info p {
+    margin-top: 15px;
     color: var(--gray_200);
 }
 
