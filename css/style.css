@@ -362,11 +362,13 @@ textarea {
 
 
 .home_stories_card h2 {
+    font-family: 'Inter';
     margin-top: 15px;
     font-size: 18px;
 }
 
 .home_stories_card span {
+    /* font-family: 'Inter'; */
     margin-top: 15px;
     color: var(--gray_200);
 }
