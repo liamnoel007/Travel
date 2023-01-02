@@ -24,6 +24,7 @@
     align-items: flex-start;
     justify-content: space-between;
     gap: 30px;
+    color: var(--gray_200);
 }
 
 .footer_top_list {
